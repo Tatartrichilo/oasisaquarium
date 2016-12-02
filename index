@@ -1,0 +1,95 @@
+<section id="animal-page" class="page-sidebar">
+	<div class="hero">
+		<div class="image-container" style="background:url('http://www.neaq.org/wp-content/uploads/2016/06/2_2_X_SouthernRockHopperPenguin.jpg') center center no-repeat;background-size:cover;">
+			<img src="http://www.neaq.org/wp-content/uploads/2016/06/2_2_X_SouthernRockHopperPenguin.jpg" alt="Southern Rockhopper Penguin">
+		</div>
+		<div class="copy-container">
+			<h3 class="category heroAnimateText"><span>Eudyptes chrysocome</span></h3>
+			<h2 class="hero-type-treatment medium">Southern Rockhopper <br />
+Penguin</h2>
+		</div>
+	</div>
+	<aside id="sidenav" class="sidenav doNotClose"><ol><li><a href="http://www.neaq.org/exhibits/">Overview</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibits/whats-new/">What's New</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animals/">Animals</a><ol class="inner"><li><a href="http://www.neaq.org/exhibits/animals/">All</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/african-penguin-2/" class="underline">African Penguin</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/american-lobster/" class="underline">American Lobster</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/atlantic-harbor-seal-2/" class="underline">Atlantic Harbor Seal</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/balloonfish/" class="underline">Balloonfish</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/california-sea-lion-2/" class="underline">California Sea Lion</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/chambered-nautilus-2/" class="underline">Chambered Nautilus</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/common-cuttlefish/" class="underline">Common Cuttlefish</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/cownose-ray/" class="underline">Cownose Ray</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/giant-pacific-octopus/" class="underline">Giant Pacific Octopus</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/green-anaconda/" class="underline">Green Anaconda</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/green-sea-turtle/" class="underline">Green Sea Turtle</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/leafy-seadragon/" class="underline">Leafy Seadragon</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/lionfish/" class="underline">Lionfish</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/little-blue-penguin/" class="underline">Little Blue Penguin</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/loggerhead-sea-turtle/" class="underline">Loggerhead Sea Turtle</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/moon-jelly/" class="underline">Moon Jelly</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/north-atlantic-right-whale-2/" class="underline">North Atlantic Right Whale</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/northern-fur-seal/" class="underline">Northern Fur Seal</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/pacific-sea-nettle/" class="underline">Pacific Sea Nettle</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/animal/southern-rockhopper-penguin/" class="underline">Southern Rockhopper Penguin</a><span class="sidenav__selection"></span></li></ol></li><li><a href="http://www.neaq.org/exhibits/exhibits/">Exhibits</a><span class="sidenav__selection"></span><ol class="inner"><li><a href="http://www.neaq.org/exhibits/exhibits/">All</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/amazon-rainforest/" class="underline">Amazon Rainforest</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/atlantic-harbor-seals-exhibit/" class="underline">Atlantic Harbor Seals Exhibit</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/blue-planet-action-center/" class="underline">Blue Planet Action Center</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/edge-sea-touch-tank/" class="underline">Edge of the Sea Touch Tank</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/giant-ocean-tank/" class="underline">Giant Ocean Tank</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/gulf-of-maine/" class="underline">Gulf of Maine</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/new-balance-foundation-marine-mammal-center/" class="underline">New Balance Foundation Marine Mammal Center</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/olympic-coast-exhibit/" class="underline">Olympic Coast Exhibit</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/pacific-reef-community/" class="underline">Pacific Reef Community</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/penguin-exhibit/" class="underline">Penguin Exhibit</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/seadragon-exhibit/" class="underline">Seadragon Exhibit</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/sea-jellies-exhibit/" class="underline">Sea Jellies Exhibit</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/sea-turtle-hospital/" class="underline">Sea Turtle Hospital</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/shark-ray-touch-tank/" class="underline">Shark and Ray Touch Tank</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibit/yawkey-coral-reef-center/" class="underline">Yawkey Coral Reef Center</a><span class="sidenav__selection"></span></li></ol></li><li><a href="http://www.neaq.org/exhibits/imax/">IMAX</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibits/animal-encounters/">Animal Encounters</a><span class="sidenav__selection"></span><ol class="inner"><li><a href="http://www.neaq.org/exhibits/animal-encounters/behind-scenes-tour/">Behind-the-Scenes Tour</a><span class="sidenav__selection"></span></li><li><a href="http://www.neaq.org/exhibits/animal-encounters/meet-myrtle/">Meet Myrtle</a><span class="sidenav__selection"></span></li></ol></li><li><a href="http://www.neaq.org/exhibits/whale-watch/">Whale Watch</a><span class="sidenav__selection"></span></li></ol></aside>	<div class="page-content">
+		<div id="main-content" class="main-content">
+			<div class="dots">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+			<article class="intro_copy">
+				<h3>The aptly named Rockhopper penguins hop with extraordinary agility to get around the steep, rocky islands where they live and breed.</h3>
+			</article>
+			<aside class="attributes">
+				<ul>
+										<li>
+							<h4>Size</h4>
+							<p>18 inches tall and weighs 5 to 10 pounds</p>
+						</li>
+										<li>
+							<h4>Diet</h4>
+							<p>Krill, squid, and small fish</p>
+						</li>
+										<li>
+							<h4>Lifespan</h4>
+							<p>Average of 10 years, but up to 30 years</p>
+						</li>
+										<li>
+							<h4>Range</h4>
+							<p>Rugged islands around the sub-Antarctic</p>
+						</li>
+										<li>
+							<h4>Habitat</h4>
+							<p>Breed on rugged, rocky islands located in the sub-Antarctic and south temperate regions of the Indian and South Atlantic oceans</p>
+						</li>
+										<li>
+							<h4>Predators</h4>
+							<p>Natural predators include blue sharks, leopard seals, and sea lions; skuas, giant petrels, gulls, and birds of prey are predators of eggs and chicks. Southern rockhopper penguins also face introduced predators such as cats, rats, and pigs.</p>
+						</li>
+										<li>
+							<h4>Relatives</h4>
+							<p>There are 18 penguin species. Southern rockhopper penguins are the only species that will dive into the ocean feet first rather than head first.</p>
+						</li>
+										<li>
+							<h4>Family life</h4>
+							<p>Rockhoppers return to the same breeding site each year and even use the same nest when possible. They are known to breed in colonies of up to 100,000 birds! The breeding season begins in October. Females lay two eggs in November. After about 33 days of incubation, the chicks hatch. Chicks are not born with the yellow crests on their heads.</p>
+						</li>
+										<li>
+							<h4>Conservation status</h4>
+							<p>Vulnerable. Pollution, climate change, overfishing, and shifts in fish populations are taking food sources away from southern rockhopper penguins. Their cousins, northern rockhopper penguins, are classified as Endangered, which is a higher risk of extinction, because they face similar food shortages in addition to introduced predators such as rats on their breeding islands.</p>
+						</li>
+										<li>
+							<h4>Penguins and climate change</h4>
+							<p>Rockhopper penguins have been disappearing from the southern oceans. Over the past three to four decades, their numbers have dropped dramatically. The number of northern rockhopper penguins has declined by 57 percent, and the number of southern rockhopper penguins has declined by 34 percent. Scientists surmise that climate change and the associated warming of the ocean surrounding their habitats may have caused these large population declines.</p>
+						</li>
+								</ul>
+			</aside>
+						<section class="grid">
+				<div class="grid-blocks">
+				
+					<div class="grid-block">
+						<div class="dots">
+							<div></div>
+							<div></div>
+							<div></div>
+						</div>
+						<h3>Vist me at the Aquarium</h3>
+						<p>The New England Aquarium’s penguin exhibit is home to more than 80 African, rockhopper, and little blue penguins.</p>
+						<a href="http://www.neaq.org/visit/tickets/" class="link">Buy tickets online<span class="icon icon__carrot-right"></span></a>
+					</div>
+
+				
+				</div>
+			</section>
+						<div class="cta__wrapper">
+				<div class="social__row">
+  					<span>Share:</span>
+  					<a class="fb-share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.neaq.org/animal/southern-rockhopper-penguin/"><span class="icon icon__facebook"></span></a>
+  					<a class="twitter-share" href="http://www.neaq.org/animal/southern-rockhopper-penguin/" title="Southern Rockhopper Penguin"><span class="icon icon__twitter"></span></a>
+  					<a href="mailto:?subject=Southern Rockhopper Penguin"><span class="icon icon__soc_mail"></span></a>
+  				</div>
+				<a href="http://www.neaq.org/animal/balloonfish/" class="btn btn__red">Next Animal <span class="icon icon__arrow-right"></span></a>
+			</div>
+
+		</div>
+	</div>
+</section>
