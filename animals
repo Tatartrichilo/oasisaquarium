@@ -6,11 +6,11 @@
       	<a class="navbar-brand" href="index.html"><img src="oasis logo.png"/></a>
     	</div>
         <ul class="nav navbar-nav navbar-right" style="font-size: 24px; margin-top: 35px !important;">
-	<li class="active"><a href="animals.html">Animals</a></li>
-	<li><a href="shows.html">Shows</a></li>
-	<li><a href="tours.html">Tours</a></li>
-	<li><a href="vlogin.html">Visitor Login</a></li>
-	<li><a href="slogin.html">Staff Login</a></li>
+	<li class="active"><a href="animals">Animals</a></li>
+	<li><a href="shows">Shows</a></li>
+	<li><a href="tours">Tours</a></li>
+	<li><a href="vlogin">Visitor Login</a></li>
+	<li><a href="slogin">Staff Login</a></li>
         </ul>
       </div>
 	  </nav>
