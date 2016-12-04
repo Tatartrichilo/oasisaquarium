@@ -9,7 +9,7 @@
 	<li><a href="animals.html">Animals</a></li>
 	<li><a href="shows.html">Shows</a></li>
 	<li><a href="tours.html">Tours</a></li>
-	<li><a href="vlogin.html">Visitor Login</a></li>
+	<li class="active"><a href="vlogin.html">Visitor Login</a></li>
 	<li><a href="slogin.html">Staff Login</a></li>
         </ul>
       </div>
@@ -17,32 +17,14 @@
 </head>
 
 	<body>
-<!-- Where all the magic happens -->
-<!-- LOGIN FORM -->
-<div class="text-center" style="padding:50px 0">
-	<div class="logo">Please enter the tour code on your ticket.</div>
-	<!-- Main Form -->
-	<div class="login-form-1">
-		<form id="login-form" class="text-left">
-			<div class="login-form-main-message"></div>
-			<div class="main-login-form">
-				<div class="login-group">
-					<div class="form-group">
-						<label for="lg_username" class="sr-only">Code: </label>
-						<input type="text" class="form-control" id="lg_username" 
-						       name="lg_username" placeholder="code">
-					</div>
-					<div class="form-group login-group-checkbox">
-						<input type="checkbox" id="lg_remember" name="lg_remember">
-						<label for="lg_remember">Remember code?</label>
-					</div>
-				</div>
-				<button type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
-			</div>
+<form action="action_page.php">
+	<fieldset>
+		<legend>Visitor Info:</legend>
+		Please enter the code at the bottom of your ticket:<br>
+		<input tyype="text" name="visitorcode"><br>
+		<input type="submit" value="Submit">
+	</fieldset>
 		</form>
-	</div>
-	<!-- end:Main Form -->
-</div>
 		<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<!-- jQuery library -->
